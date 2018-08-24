@@ -1,0 +1,21 @@
+Dökümanlar moduler olacak şekilde düzenlenecek. Böylece bir döküman bloğu başka bir yerde referans şeklinde kullanılabilecek. 
+Referans kullanım sayesinde o döküman bloğu güncelendiğinde referans edilen yerler de güncellenmiş olacak.
+Temel olarak 3 konumuz var. 
+1. Döküman şekli.
+	Döküman şekli için şimdilik 2 temel kategori düşünüyorum.
+	a) Döküman veya döküman bloğu
+	b) Tanım veya tanım bloğu
+	Ek: Ayrıca dinamik html özelliği eklenecek
+2. Referans şekli.
+	a) Açık gösterim (flow): Mevcut dökümanda devam eden bir gösterim şeklidir. 
+	b) Açılabilir gösterim (Expand/Collapse)
+	c) Kenar gösterim: Sağ veya solda kutucuk şeklinde referans link şeklinde. (Bu eklenmeyebilir de)
+	d) Popup gösterim (Küçük kutucuk penceresi şeklinde, sayfa içerisinde gösterim. Pencere dışına tıklanınca kaybolur)
+	e) Yeni sekme (blank page)
+	f) Yeni sayfa (açılır pencere)
+3. Biçimlendirme
+	Kalın
+	İtalik
+	Numaralndırma, Madde
+	Başlık 1,2..6
+	
