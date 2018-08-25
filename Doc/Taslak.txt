@@ -1,6 +1,6 @@
 Dökümanlar moduler olacak şekilde düzenlenecek. Böylece bir döküman bloğu başka bir yerde referans şeklinde kullanılabilecek. 
 Referans kullanım sayesinde o döküman bloğu güncelendiğinde referans edilen yerler de güncellenmiş olacak.
-Temel olarak 3 konumuz var. 
+
 1. Döküman şekli.
 	Döküman şekli için şimdilik 2 temel kategori düşünüyorum.
 	a) Döküman veya döküman bloğu
@@ -16,6 +16,21 @@ Temel olarak 3 konumuz var.
 3. Biçimlendirme
 	Kalın
 	İtalik
-	Numaralndırma, Madde
+	Numaralandırma, Madde
 	Başlık 1,2..6
+	img
+	frame
+	object
+4. Söz dizimi kuralları (syntax)
+Syntax olarak iki kullanım olacak.
+	a) Referans ve döküman tanımları için json
+	b) Biçimlendirme tanımları için <> işaretleri yerine [!!] tag. Örnek; 
+	<a href=""></a> yerine [!a href=""!][!/a!]
+	<ul></ul> yerine [!ul!][!/ul!]
+	<img src="blabla" /> yerine [!img src="blabla" /!]
+5. Genel özellikler.
+	a) Custom head and body tags, scripts
+	
+
+
 	
