@@ -30,7 +30,15 @@ Syntax olarak iki kullanım olacak.
 	<img src="blabla" /> yerine [!img src="blabla" /!]
 5. Genel özellikler.
 	a) Custom head and body tags, scripts
-	
+
+6. Yapı
+Kitap, Bölüm, Başlık, Blok/Paragraf/Section, Tanım (Sözlük) gibi kavramlardan oluşacak. Her bir kavram ayrı bir kayıt olarak tutulacak. Bu kayıtlar referans yolu ile build edilecek.
+Gerçek dünyadaki Kitap kavramı etrafında dönülecek, tabi dijital şekli biraz farklı olacak. 
+Kitap:
+Bölüm:
+Başlık:
+Blok:
+Tanım:
 
 
 	
